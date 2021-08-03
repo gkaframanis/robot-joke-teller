@@ -1,7 +1,5 @@
 # Robot Joke Teller
 
----
-
 ![alt text](./screenshot/screenshot.png "Robot Joke Teller")
 
 ---
@@ -11,5 +9,5 @@ text to speech API and the robot will tell us that joke.
 
 ---
 
-[Joke API](https://sv443.net/jokeapi/v2/ "The Joke API we used to this project.")
-[Text to Speech API](http://www.voicerss.org/api/ "The text to speech API we used to this project.")
+[Link to the Joke API](https://sv443.net/jokeapi/v2/ "The Joke API we used to this project.")<br>
+[Link Text to Speech API](http://www.voicerss.org/api/ "The text to speech API we used to this project.")
